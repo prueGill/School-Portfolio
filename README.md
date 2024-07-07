@@ -12,7 +12,7 @@ Feel free to reach out to me at pgillesania@mcm.edu.ph for any inquiries.
 - Part 2: Design Alternatives
 - Part 3.1: System Prototype
 - Part 3.2: System Evaluation
-- Part 4: Final Presentation <br> <br>
+- Part 4: Final Presentation <br>
 
 ### Credentials
 - Start the UX Design Process: Empathize, Define, and Ideate Coursera Certificate
